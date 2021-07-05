@@ -1,0 +1,214 @@
+
+
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+    color: rgb(59, 58, 58);
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.header-Top{
+
+    /*background-color: rgb(238, 222, 220);*/
+    background-image: url(image/shapes/7_1.png);
+    width: 100%;
+
+}
+
+nav ul{
+
+    list-style: none;
+    padding:0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 5px;
+    
+}
+
+nav ul li a{
+
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    padding:15px 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a:hover{
+
+    background: linear-gradient(tomato,orange);
+    border-radius: 5px;
+}
+
+h1{
+
+    font-size: 40px;
+}
+#About-Me-h1{
+    font-size: 30px;
+}
+.Button-Link{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.Flexible-Container{
+
+display: flex;
+
+}
+
+#div-Column-1{
+
+   
+    width:30%;
+    padding-left: 10%;
+    padding-top: 5%;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+}
+
+#div-Column-2{
+
+    width:40%;
+    padding-left: 10%;
+    padding-top: 5%;
+    
+}
+#image{
+
+    max-width: 85%;
+}
+
+#image-About-Me{
+
+    max-width: 50%;
+}
+
+#image-Recipe{
+    padding-top: 20px;
+    padding-left: 30px;
+    max-width: 80%;
+
+
+}
+
+#div-About-Me{
+
+    background-image: url(image/shapes/7.png);
+    height: 600px;
+}
+
+#div-Column-left-About-Me{
+
+    
+    width:50%;
+    padding-left: 14% ;
+    padding-top: 7%;
+    
+}
+
+#div-Column-Right-About-Me{
+
+    width:50%;
+    padding-top: 9%;
+
+    padding-right:12%;
+    
+}
+
+.Recipe-Section-1{
+
+    width:22%;
+    margin-left:8%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:0;
+   
+}
+
+#image-Recipe{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 92%;
+
+
+}
+
+.Recipe-Section-2{
+
+    width:22%;
+    margin-left:3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:3%;
+   
+}
+
+.Recipe-Section-3{
+
+    width:22%;
+    margin-left:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:5%;
+   
+}
+
+.box-Shadow{
+
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px rgb(190, 189, 189);
+    
+}
+
+.Section_Subscriber{
+
+    Width:80%;
+    Margin-left: 8%;
+    margin-right:5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 200px;
+}
+
+.footer{
+
+    height: 200px;
+    width:100%;
+    background-color: black;
+
+}
+
+#footer-h1{
+
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    color:gray;
+}
+
+.Affliation-image{
+
+    max-width: 50%;
+    padding: 0px 10px 0px 75px;
+
+}
+

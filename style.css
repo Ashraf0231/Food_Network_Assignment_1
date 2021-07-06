@@ -19,6 +19,10 @@ body{
 }
 
 /*Navigation Bar CSS*/
+.span{
+
+    Color:Orange;
+}
 nav ul{
 
     list-style: none;

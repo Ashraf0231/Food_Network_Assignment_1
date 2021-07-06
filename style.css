@@ -1,6 +1,6 @@
 
 
-
+/*body Design CSS*/
 body{
 
     font-family: 'Poppins', sans-serif;
@@ -9,6 +9,7 @@ body{
     width:80%;
 }
 
+/*Navigation Bar Background CSS*/
 .header-Top{
 
     /*background-color: rgb(238, 222, 220);*/
@@ -17,6 +18,7 @@ body{
 
 }
 
+/*Navigation Bar CSS*/
 nav ul{
 
     list-style: none;
@@ -50,6 +52,8 @@ nav a:hover{
     background: linear-gradient(tomato,orange);
     border-radius: 5px;
 }
+/*------- End Navigation bar--------*/
+
 
 h1{
 
@@ -114,7 +118,9 @@ display: flex;
     background-image: url(image/shapes/7.png);
     height: 600px;
     margin-top: 5%;
+    margin-left: 3%;
     background-repeat: no-repeat;
+    Width:100%;
 }
 
 #div-Column-left-About-Me{

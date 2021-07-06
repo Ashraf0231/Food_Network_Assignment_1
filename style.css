@@ -6,7 +6,7 @@ body{
     font-family: 'Poppins', sans-serif;
     color: rgb(59, 58, 58);
     margin: 0 auto;
-    width:70%;
+    width:80%;
 }
 
 .header-Top{
@@ -98,7 +98,7 @@ display: flex;
 
 #image-About-Me{
 
-    max-width: 65%;
+    max-width: 55%;
 }
 
 #image-Recipe{
@@ -114,6 +114,7 @@ display: flex;
     background-image: url(image/shapes/7.png);
     height: 600px;
     margin-top: 5%;
+    background-repeat: no-repeat;
 }
 
 #div-Column-left-About-Me{
